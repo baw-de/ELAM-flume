@@ -1,0 +1,10 @@
+// Additional constant ELAM parameters, compiled into main class
+
+// C++ const == Fortran PARAMETER
+
+const int   FSOlimit =  7,      // For changes, all loops with FSOlimit need to be revised (hardcoded values)
+            nFhAttrb =  1,
+            nCoeff   = 62,
+            nTecFieldVar = 4,   // Number of environmental mesh field variables in addition to x,y,z,u,v,w
+            nAgents  =  4,      // Originally 8
+            consoleInputLength = 15;  // Number of entries in simSettings.inp

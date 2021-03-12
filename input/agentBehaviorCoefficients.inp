@@ -1,0 +1,124 @@
+Coefficients(1): Sensory point length factor (BL per x direction) (Default: 0.5)
+    0.5
+Coefficients(2): Sensory point wideness factor (BL per y direction) (Default: 0.25)
+    0.25
+Coefficients(3): Sensory point heigthFactor (BL per z direction) (Default: 0.33)
+    0.33
+Coefficients(4): 
+    0
+Coefficients(5): AgtMem1 (Memory coefficient for Motivation = Fraction of last time step included) (Default: 0.97)
+    0.97
+Coefficients(6): AgtMem2 (Memory coefficient for decreasing Fatigue) (Default: 0.98)
+    0.98
+Coefficients(7): AgtMem3 (Memory coefficient for increasing Fatigue) (Default: 0.34)
+    0.34
+Coefficients(8): AgtMem4 (Memory coefficient for spot s = Fraction of last time step included) (Default: 0.94)
+    0.94
+Coefficients(9): AgtMem5
+    0
+Coefficients(10): AgtMem6
+    0
+Coefficients(11): AgtMem7
+    0
+Coefficients(12): AgtMem8
+    0
+Coefficients(13): rSameSpot (Default: 3.0 BL)
+    3.0
+Coefficients(14): Visual range: estimate depending on cloudiness (Default: 4.6 m)
+    4.6
+Coefficients(15):
+    0
+Coefficients(16):
+    0
+Coefficients(17):
+    0
+Coefficients(18): Drift deviation angle. Base deviation to either side. (Default: 90.0 deg)
+    90.0
+Coefficients(19):
+    0
+Coefficients(20):
+    0
+Coefficients(21): AgtDetctThrshld1
+    0
+Coefficients(22): AgtDetctThrshld2
+    0
+Coefficients(23): AgtDetctThrshld3
+    0
+Coefficients(24): AgtDetctThrshld4: threshold of perceived change in AgtDetctMetrc_NP (Pressure/height)) (Default: 0.025 m)
+    0.05
+Coefficients(25): AgtDetctThrshld5
+    0
+Coefficients(26): AgtDetctThrshld6
+    0
+Coefficients(27): AgtDetctThrshld7
+    0
+Coefficients(28): AgtDetctThrshld8
+    0
+Coefficients(29): AgtDetctMetrcAmbMem1
+    0
+Coefficients(30): AgtDetctMetrcAmbMem2
+    0
+Coefficients(31): AgtDetctMetrcAmbMem3
+    0
+Coefficients(32): AgtDetctMetrcAmbMem4 (Memory coefficient for updating acclimatization to Pressure) (Default: 1.0, i.e. no acclimatization)
+    1.0
+Coefficients(33): AgtDetctMetrcAmbMem5
+    0
+Coefficients(34): AgtDetctMetrcAmbMem6
+    0
+Coefficients(35): AgtDetctMetrcAmbMem7
+    0
+Coefficients(36): AgtDetctMetrcAmbMem8
+    0
+Coefficients(37):
+    0.0
+Coefficients(38):
+    0.0
+Coefficients(39): Initial motivation (-). Range: 0-1. (Default: 0.30)
+    0.30
+Coefficients(40): acclMagTolMigr (-) (Default: 1.01)
+    1.01
+Coefficients(41): driftStraightProb (-). Probability of drifting with the flow (Default: 0.90)
+    0.90
+Coefficients(42):
+    0.0
+Coefficients(43): Migrating swim angle influence of velMag (Default: 40 deg/s)
+    40
+Coefficients(44): Migrating swim angle maximum random influence (Default: 40 deg/s)
+    40
+Coefficients(45): Migrating swim angle influence of acclMag and TKE (Default: 40 deg/s)
+    40
+Coefficients(46): Migrating swim angle influence of visual wall distance (Default: 28 deg/s)
+    28
+Coefficients(47):
+    0.0
+Coefficients(48): Vertical angle correction (Default: 5 deg/s)
+    5
+Coefficients(49):
+    0.0
+Coefficients(50):
+    0.0
+Coefficients(51):
+    0.0
+Coefficients(52): Swim velocity over ground, U_g (Default: 2.5 BL/s)
+    2.5
+Coefficients(53):
+    0.0
+Coefficients(54):
+    0.0
+Coefficients(55): Base reference value for calculation of AcclM in decibel scale - STRBASELOG (Default: 1D-6)
+    1D-6
+Coefficients(56): Holding tolerance value Delta_H (Default: 0.02)
+    0.02
+Coefficients(57): Trap protection active (Default: 30 s)
+    30
+Coefficients(58): Motivation coefficient for fast fish, k_M,f (Default: 14 s)
+    14
+Coefficients(59): Motivation coefficient for slow fish, k_M,s (Default: 90 s)
+    90
+Coefficients(60): Fatigue coefficient for fast fish, k_F (Default: 19 BL/s)
+    19
+Coefficients(61): Fatigue coefficient for slow fish, k_F (Default: 25 BL/s)
+    25
+Coefficients(62):
+    0
