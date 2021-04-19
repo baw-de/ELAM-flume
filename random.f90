@@ -1,12 +1,13 @@
 !/*--------------------------------------------------------------------*\
-!Application
+! Application
 !   random
 !
-!Purpose
+! Purpose
 !   Return pseudo-random numbers
 !
-!Copyright (c) 2004 R. Andrew Goodwin
-!   See license file for information on usage
+! This file is provided courtesy of the United States Army Corps of
+!   Engineers, Engineer Research and Development Center, Environmental
+!   Laboratory. See license file for information on usage.
 !
 !\*--------------------------------------------------------------------*/
 
